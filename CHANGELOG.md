@@ -1,5 +1,11 @@
 # generator-dgp-api-aspnetcore
 
+## 8.1.0
+
+- My.ACPaaS platform support
+- Minor .Net Core 3.1 version update
+-
+
 ## 8.0.0
 - Updated project to .net core 3.1
 - Many nuget updates (deleted DigiPolis.Web reference => outdated)
@@ -101,7 +107,7 @@
 
 ## 2.2.9
 
-- replace 'StarterKit' in dynamically added code. 
+- replace 'StarterKit' in dynamically added code.
 
 ## 2.2.8
 
@@ -165,7 +171,7 @@
 
 ## 2.0.9
 
-- generation of  data access files. 
+- generation of  data access files.
 
 ## 2.0.8
 
@@ -256,7 +262,7 @@
 
 ## 1.0.2
 
-- Correlation Toolbox added. 
+- Correlation Toolbox added.
 
 ## 1.0.1
 
